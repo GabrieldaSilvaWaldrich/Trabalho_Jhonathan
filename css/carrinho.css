@@ -1,7 +1,26 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #fafafa;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #004aad;
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  main{
     padding: 2rem;
+  }
+
+  nav a {
+    color: white;
+    margin-left: 1rem;
+    text-decoration: none;
   }
   
   h1 {
