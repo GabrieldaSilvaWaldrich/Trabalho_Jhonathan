@@ -14,7 +14,7 @@ body {
     align-items: center;
   }
   
-  nav a {
+  a {
     color: white;
     margin-left: 1rem;
     text-decoration: none;
