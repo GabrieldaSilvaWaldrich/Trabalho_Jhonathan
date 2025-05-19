@@ -6,6 +6,10 @@ body {
     align-items: center;
     padding-top: 3rem;
   }
+
+  header img{
+    width: 100%;
+  }
   
   h1 {
     margin-bottom: 2rem;
