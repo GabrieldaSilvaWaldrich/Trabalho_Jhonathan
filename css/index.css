@@ -14,7 +14,12 @@ body {
     align-items: center;
   }
   
-  a {
+  header a{
+    color: white;
+    text-decoration: none;
+  }
+
+  nav a {
     color: white;
     margin-left: 1rem;
     text-decoration: none;

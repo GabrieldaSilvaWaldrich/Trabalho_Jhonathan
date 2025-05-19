@@ -16,8 +16,12 @@ body {
   main{
     padding: 2rem;
   }
-
-  a {
+  
+  header a{
+    color: white;
+    text-decoration: none;
+  }
+  nav a {
     color: white;
     margin-left: 1rem;
     text-decoration: none;
