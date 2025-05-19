@@ -28,11 +28,12 @@ body {
     display: flex;
     gap: 2rem;
     flex-wrap: wrap;
+    justify-content: center;
   }
   
   .produto {
     background-color: white;
-    padding: 1rem;
+    padding: 10%;
     border: 1px solid #ddd;
     border-radius: 8px;
     width: 200px;
