@@ -21,7 +21,10 @@ header {
     padding-top: 3rem;
   }
 
-<<<<<<< HEAD
+  header img{
+    width: 100%;
+  }
+  
   header a{
     color: white;
     text-decoration: none;
@@ -32,15 +35,7 @@ header {
     margin-left: 1rem;
     text-decoration: none;
   }
-  
   main h1 {
-=======
-  header img{
-    width: 100%;
-  }
-  
-  h1 {
->>>>>>> e3a7223c539b808c5e728528fecc0af6ba7398ef
     margin-bottom: 2rem;
     padding: 0.75rem 1.5rem;
     background-color: #004aad;
