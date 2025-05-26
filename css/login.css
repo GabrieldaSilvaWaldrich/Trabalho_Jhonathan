@@ -88,3 +88,9 @@ header {
     
   }
 
+
+  footer{
+    background-color: #004aad;
+    color: white;
+    font-size: 12px;
+  }

@@ -76,4 +76,10 @@ body {
     border-radius: 5px;
     cursor: pointer;
   }
+
   
+  footer{
+    background-color: #004aad;
+    color: white;
+    font-size: 12px;
+  }
