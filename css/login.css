@@ -27,10 +27,10 @@ header {
 
         .banner-content {
             display: inline-block;
-            animation: move 10s linear infinite;
+            animation: movimento 10s linear infinite;
         }
 
-        @keyframes move {
+        @keyframes movimento {
             from {
                 transform: translateX(0);
             }
@@ -70,6 +70,10 @@ header {
     width: 300px;
   }
   
+  .formulario label{
+    text-align: center;
+  }
+
   .formulario input {
     width: 100%;
     padding: 0.5rem;
